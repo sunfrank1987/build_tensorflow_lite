@@ -92,9 +92,13 @@ build static tensorflow lite for android(only "armeabi-v7a",'arm64-v8a')
 
 3.7 Android Demo
 
+    https://github.com/sunfrank1987/build_tensorflow_lite/tree/master/demo/tflite-demo
 
+    test model from 
+    
+    https://www.tensorflow.org/lite/models/image_classification/overview
 
-
+    https://storage.googleapis.com/download.tensorflow.org/models/tflite/mobilenet_v1_1.0_224_quant_and_labels.zip
 
 
 
