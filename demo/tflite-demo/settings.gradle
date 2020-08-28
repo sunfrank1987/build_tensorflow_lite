@@ -1,0 +1,2 @@
+rootProject.name='tflite-demo'
+include ':app'
