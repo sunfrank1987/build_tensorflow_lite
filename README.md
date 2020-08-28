@@ -1,5 +1,6 @@
-# build_tensorflow_lite
+# build tensorflow lite static lib for android
 # 
+
 build static tensorflow lite for android(only "armeabi-v7a",'arm64-v8a')
 
 
